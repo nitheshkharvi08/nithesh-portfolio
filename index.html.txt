@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nithesh Kharvi | Finance Analyst Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Nithesh Kharvi</h1>
+    <p class="subtitle">Finance Analyst Portfolio</p>
+    <p class="skills">Financial Modelling | Valuation | Budgeting | Equity Research</p>
+    <a class="btn" href="projects.html">View Projects</a>
+</header>
+
+<section class="projects-preview">
+    <h2>Selected Projects</h2>
+
+    <div class="card">
+        <h3>DCF Valuation & Scenario Analysis</h3>
+        <p>Is the company overvalued at its current market price?</p>
+        <a href="projects.html">View Project</a>
+    </div>
+
+    <div class="card">
+        <h3>Budget vs Actual Variance Analysis</h3>
+        <p>What went wrong vs plan and what management should fix.</p>
+        <a href="projects.html">View Project</a>
+    </div>
+
+    <div class="card">
+        <h3>Equity Research Report</h3>
+        <p>Key earnings drivers and valuation risk for next 12 months.</p>
+        <a href="projects.html">View Project</a>
+    </div>
+</section>
+
+<footer>
+    <p>Contact: yourname@email.com | LinkedIn</p>
+</footer>
+
+</body>
+</html>
