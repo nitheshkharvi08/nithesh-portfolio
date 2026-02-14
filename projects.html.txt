@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Projects | Nithesh Kharvi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Projects</h1>
+    <a class="btn" href="index.html">Back to Home</a>
+</header>
+
+<section class="project">
+    <h2>DCF Valuation & Scenario Analysis</h2>
+
+    <h3>Problem Statement</h3>
+    <p>
+        The objective of this project is to evaluate whether the company is
+        overvalued or undervalued at its current market price using a DCF model
+        under multiple scenarios.
+    </p>
+
+    <h3>Data & Assumptions</h3>
+    <ul>
+        <li>Financial statements from annual reports</li>
+        <li>Revenue growth and margin assumptions</li>
+        <li>WACC and terminal growth assumptions</li>
+    </ul>
+
+    <h3>Model</h3>
+    <p>
+        <a href="#">Download Excel Model</a>
+    </p>
+
+    <h3>Key Insights</h3>
+    <ul>
+        <li>Valuation highly sensitive to revenue growth</li>
+        <li>Downside scenario shows limited margin of safety</li>
+    </ul>
+
+    <h3>Conclusion</h3>
+    <p><strong>Avoid at current valuation.</strong></p>
+</section>
+
+</body>
+</html>
